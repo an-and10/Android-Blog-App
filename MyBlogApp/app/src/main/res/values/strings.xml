@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyBlogApp</string>
+    <string name="welcome_name">Welcome To My App Blog</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="sign_up_button">Need An Account?</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="logout">Logout</string>
+    <string name="createaccount">Create Account</string>
+    <string name="alreadyaccount">Already Have An Account? </string>
+    <string name="create_welcome">Create An Account</string>
+    <string name="password_hint_confirm">Confirm Password</string>
+    <string name="post_images">post</string>
+    <string name="bottom_home">Home</string>
+    <string name="home">Home</string>
+    <string name="Account">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="post_usernam">Username</string>
+    <string name="post_date">Post Date</string>
+    <string name="likes">Likes</string>
+    <string name="developemnt">This App is Under Development Phase</string>
+</resources>
